@@ -5,7 +5,7 @@ With this dynamic dashboard, we're diving deep into the world of hotel bookings,
 
 ## Key features include:
 •Total bookings overview
-* Cancelled bookings analysis
+•Cancelled bookings analysis
 •Top 5 countries with cancelled bookings
 •Weekly insights on booking trends
 •Monthly trends in cancellation rates and average daily rates (ADR)
